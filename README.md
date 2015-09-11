@@ -112,7 +112,7 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
-## Solution to Exploratory Data Analysis Course Project 1. Plots can be found in the the upper level directory of this repository.
+## Solution to Exploratory Data Analysis Course Project 1.  Plots can be found in the the upper level directory of this repository.
 
 All plots are PNG files per specification.
 
